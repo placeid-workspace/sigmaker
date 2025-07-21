@@ -3,8 +3,11 @@ simple signature generator for binary blobs. reads input.bin and spits out a pat
 
 # features lol
 wildcarding for dynamic pointers (? ? ? ?)
+
 clean hex output like 48 8B ?? ?? ?? C3
+
 works on any binary file
+
 fast af LOL
 
 # usage
